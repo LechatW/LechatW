@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm William and welcome to my Github profile!
 
-<!--
-**LechatW/LechatW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I've recently finished a degree in IT management
 
 - 🔭 I'm currently training on a reddit website clone
