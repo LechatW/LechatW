@@ -32,4 +32,4 @@
 <br/>
 <br/>
 
-[linkedin]: https://linkedin.com/in/lechatW
+[linkedin]: https://www.linkedin.com/in/william-lechat/
