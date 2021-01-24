@@ -5,7 +5,6 @@
 - 🔭 I'm currently training on a reddit website clone
 - 🌱 I'm currently learning a lot of things 😄
 - 👯 I'm looking for a job as a developer
-- ⚡ Fun fact: I really love cooking !
 
 ### Want to know more about me ?
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
