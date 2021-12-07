@@ -8,7 +8,7 @@
 </p>
 <br />
 
-<p>:heart: Passionated Software Engineer since 2021 focusing on Java and Angular.</p>
+<p>:heart: Passionated Full-stack developer since 2021 focusing on Java and Angular.</p>
 <br />
 
 <h2 align="center">My last projects 💻</h2>
