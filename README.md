@@ -46,6 +46,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LechatW&theme=radical&show_icons=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LechatW&layout=compact&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LechatW&theme=tokyonight&show_icons=true" width="450px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LechatW&layout=compact&theme=tokyonight" width="400px" />
 </p>
