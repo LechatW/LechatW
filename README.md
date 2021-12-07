@@ -13,6 +13,12 @@
 
 <h2 align="center">My last projects 💻</h2>
   👷 Working on !
+  <!--<p align="center">
+    <img width="400" src="https://github.com/LechatW/Tic-Tac-Toe/blob/master/images/start.PNG" />
+    <a href="https://github.com/LechatW/Tic-Tac-Toe">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LechatW&repo=Tic-Tac-Toe&theme=tokyonight" />
+    </a>
+  </p>-->
 <br />
 
 <p>
