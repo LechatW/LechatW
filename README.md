@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/william-lechat/"><img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="Linkedin"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/william-lechat/"><img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="Linkedin badge"/></a>&nbsp;
+  <a href="https://shadowed-packet-1e0.notion.site/Hi-I-m-William-c9f3620b301a4b25a49ee28ef4abeeee"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&color=black" alt="Notion badge"></a>&nbsp;
 </p>
 <br />
 
